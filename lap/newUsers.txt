@@ -1,0 +1,10 @@
+tss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
+polkitd:x:998:996:User for polkitd:/:/sbin/nologin
+unbound:x:997:994:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+sssd:x:996:993:User for sssd:/:/sbin/nologin
+chrony:x:995:992::/var/lib/chrony:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+ec2-user:x:1000:1000:Cloud User:/home/ec2-user:/bin/bash
+landmark:x:1001:1004::/home/landmark:/bin/bash
+paul:x:1002:1002::/home/paul:/bin/bash
+simon:x:1003:1005::/home/simon:/bin/bash

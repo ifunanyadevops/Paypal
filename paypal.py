@@ -1,0 +1,5 @@
+print ('John')
+print ('gloria')
+print ('bebe')
+print ('sarah')
+print ('james')
